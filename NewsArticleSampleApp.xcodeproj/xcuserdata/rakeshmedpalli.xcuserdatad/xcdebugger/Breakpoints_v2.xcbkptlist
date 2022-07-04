@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E5CE3A7E-DECE-4572-84AF-041623E0AD4F"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4961248C-63B0-40B6-81F0-EC643D36267C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewsArticleSampleAppTests/NewsArticleViewModelTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "testViewModel()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "77FA3FCC-A692-48C2-A9D5-004DA83BA380"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewsArticleSampleAppTests/MockRequestManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "77FA3FCC-A692-48C2-A9D5-004DA83BA380 - 3cc29b538068f55b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 () -&gt; () in closure #1 (Swift.Bool, Swift.Optional&lt;Foundation.Data&gt;) -&gt; () in NewsArticleSampleAppTests.MockRequestManager.requestAPI(requestURN: NewsArticleSampleApp.RequestURN, completionHandler: (Swift.Bool, Swift.Optional&lt;Foundation.Data&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "NewsArticleSampleAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rakeshmedpalli/Documents/SampleApp/NewsArticleSampleApp/NewsArticleSampleAppTests/MockRequestManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "113">
+               </Location>
+               <Location
+                  uuid = "77FA3FCC-A692-48C2-A9D5-004DA83BA380 - 3cc29b538068f462"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 () -&gt; () in closure #1 (Swift.Bool, Swift.Optional&lt;Foundation.Data&gt;) -&gt; () in NewsArticleSampleAppTests.MockRequestManager.requestAPI(requestURN: NewsArticleSampleApp.RequestURN, completionHandler: (Swift.Bool, Swift.Optional&lt;Foundation.Data&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "NewsArticleSampleAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rakeshmedpalli/Documents/SampleApp/NewsArticleSampleApp/NewsArticleSampleAppTests/MockRequestManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "113">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

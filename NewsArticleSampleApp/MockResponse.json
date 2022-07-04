@@ -1,0 +1,1297 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2022 The New York Times Company.  All Rights Reserved.",
+   "num_results":20,
+   "results":[
+      {
+         "uri":"nyt://article/9d1a15cc-7ba2-5511-a1e4-44dfa11e4eee",
+         "url":"https://www.nytimes.com/2022/06/30/science/listeria-outbreak-florida.html",
+         "id":100000008425140,
+         "asset_id":100000008425140,
+         "source":"New York Times",
+         "published_date":"2022-06-30",
+         "updated":"2022-07-01 10:36:17",
+         "section":"Science",
+         "subsection":"",
+         "nytdsection":"science",
+         "adx_keywords":"Food Contamination and Poisoning;Listeriosis;Listeria Monocytogenes;Deaths (Fatalities);Centers for Disease Control and Prevention;Florida",
+         "column":null,
+         "byline":"By Vimal Patel",
+         "type":"Article",
+         "title":"One Dead and 22 Have Been Hospitalized in Listeria Outbreak Tied to Florida",
+         "abstract":"A food source has not been identified as the cause of the outbreak, which has sickened people across 10 states starting in January 2021, the Centers for Disease Control and Prevention said in a statement.",
+         "des_facet":[
+            "Food Contamination and Poisoning",
+            "Listeriosis",
+            "Listeria Monocytogenes",
+            "Deaths (Fatalities)"
+         ],
+         "org_facet":[
+            "Centers for Disease Control and Prevention"
+         ],
+         "per_facet":[
+            
+         ],
+         "geo_facet":[
+            "Florida"
+         ],
+         "media":[
+            {
+               "type":"image",
+               "subtype":"photo",
+               "caption":"This 2002 electron microscope image made available by the Centers for Disease Control and Prevention shows a Listeria monocytogenes bacterium. ",
+               "copyright":"Elizabeth White/Centers for Disease Control and Prevention, via Associated Press",
+               "approved_for_syndication":1,
+               "media-metadata":[
+                  {
+                     "url":"https://static01.nyt.com/images/2022/06/30/multimedia/-30xp-listeria-1/-30xp-listeria-1-thumbStandard.jpg",
+                     "format":"Standard Thumbnail",
+                     "height":75,
+                     "width":75
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2022/06/30/multimedia/-30xp-listeria-1/-30xp-listeria-1-mediumThreeByTwo210.jpg",
+                     "format":"mediumThreeByTwo210",
+                     "height":140,
+                     "width":210
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2022/06/30/multimedia/-30xp-listeria-1/-30xp-listeria-1-mediumThreeByTwo440.jpg",
+                     "format":"mediumThreeByTwo440",
+                     "height":293,
+                     "width":440
+                  }
+               ]
+            }
+         ],
+         "eta_id":0
+      },
+      {
+         "uri":"nyt://article/fbbce4d6-feeb-57b7-8de8-1c44150f25d3",
+         "url":"https://www.nytimes.com/2022/06/30/opinion/why-on-earth-is-pelosi-supporting-the-trumpists.html",
+         "id":100000008423986,
+         "asset_id":100000008423986,
+         "source":"New York Times",
+         "published_date":"2022-06-30",
+         "updated":"2022-07-01 11:33:26",
+         "section":"Opinion",
+         "subsection":"",
+         "nytdsection":"opinion",
+         "adx_keywords":"United States Economy;Primaries and Caucuses;United States Politics and Government;Elections, House of Representatives;Elections, Governors;Midterm Elections (2022);Democratic Party;Republican Party;United States",
+         "column":null,
+         "byline":"By David Brooks",
+         "type":"Article",
+         "title":"Why on Earth Is Pelosi Supporting the Trumpists?",
+         "abstract":"The moral idiocy of promoting the extremists.",
+         "des_facet":[
+            "United States Economy",
+            "Primaries and Caucuses",
+            "United States Politics and Government",
+            "Elections, House of Representatives",
+            "Elections, Governors",
+            "Midterm Elections (2022)"
+         ],
+         "org_facet":[
+            "Democratic Party",
+            "Republican Party"
+         ],
+         "per_facet":[
+            
+         ],
+         "geo_facet":[
+            "United States"
+         ],
+         "media":[
+            {
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":"J. Scott Applewhite/Associated Press",
+               "approved_for_syndication":1,
+               "media-metadata":[
+                  {
+                     "url":"https://static01.nyt.com/images/2022/07/01/opinion/30brooks1/merlin_209383653_2b760b61-b05f-4dba-9b87-88716b7fe7f7-thumbStandard.jpg",
+                     "format":"Standard Thumbnail",
+                     "height":75,
+                     "width":75
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2022/07/01/opinion/30brooks1/merlin_209383653_2b760b61-b05f-4dba-9b87-88716b7fe7f7-mediumThreeByTwo210.jpg",
+                     "format":"mediumThreeByTwo210",
+                     "height":140,
+                     "width":210
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2022/07/01/opinion/30brooks1/merlin_209383653_2b760b61-b05f-4dba-9b87-88716b7fe7f7-mediumThreeByTwo440.jpg",
+                     "format":"mediumThreeByTwo440",
+                     "height":293,
+                     "width":440
+                  }
+               ]
+            }
+         ],
+         "eta_id":0
+      },
+      {
+         "uri":"nyt://article/23bcc96b-00c7-536e-a76e-4aba53e0035e",
+         "url":"https://www.nytimes.com/2022/07/01/us/politics/brittney-griner-trial-russia.html",
+         "id":100000008421341,
+         "asset_id":100000008421341,
+         "source":"New York Times",
+         "published_date":"2022-07-01",
+         "updated":"2022-07-01 22:54:25",
+         "section":"U.S.",
+         "subsection":"Politics",
+         "nytdsection":"u.s.",
+         "adx_keywords":"Russian Invasion of Ukraine (2022);United States International Relations;Detainees;Arms Trade;Bout, Viktor;Griner, Brittney;Biden, Joseph R Jr;Putin, Vladimir V;Women's National Basketball Assn",
+         "column":null,
+         "byline":"By Michael Crowley",
+         "type":"Article",
+         "title":"Russia Hints at Linking Griner’s Case to Fate of ‘Merchant of Death’",
+         "abstract":"Viktor Bout, a Russian arms dealer, is serving a 25-year prison sentence in the United States.",
+         "des_facet":[
+            "Russian Invasion of Ukraine (2022)",
+            "United States International Relations",
+            "Detainees",
+            "Arms Trade"
+         ],
+         "org_facet":[
+            "Women's National Basketball Assn"
+         ],
+         "per_facet":[
+            "Bout, Viktor",
+            "Griner, Brittney",
+            "Biden, Joseph R Jr",
+            "Putin, Vladimir V"
+         ],
+         "geo_facet":[
+            
+         ],
+         "media":[
+            {
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Viktor Bout, center, was arrested in 2008 and later sentenced to 25 years in prison. The Kremlin appears interested in a potential deal with the Biden administration to free the arms dealer.",
+               "copyright":"U.S. Department of Justice, via Reuters",
+               "approved_for_syndication":1,
+               "media-metadata":[
+                  {
+                     "url":"https://static01.nyt.com/images/2022/06/30/us/30dc-diplo-griner1/30diplo-griner-thumbStandard-v2.jpg",
+                     "format":"Standard Thumbnail",
+                     "height":75,
+                     "width":75
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2022/06/30/us/30dc-diplo-griner1/30diplo-griner-mediumThreeByTwo210-v2.jpg",
+                     "format":"mediumThreeByTwo210",
+                     "height":140,
+                     "width":210
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2022/06/30/us/30dc-diplo-griner1/30diplo-griner-mediumThreeByTwo440-v2.jpg",
+                     "format":"mediumThreeByTwo440",
+                     "height":293,
+                     "width":440
+                  }
+               ]
+            }
+         ],
+         "eta_id":0
+      },
+      {
+         "uri":"nyt://article/f17d15e8-8807-5668-8282-7f3c9f514353",
+         "url":"https://www.nytimes.com/2022/07/01/technology/technoblade-minecraft-youtuber-dead.html",
+         "id":100000008425695,
+         "asset_id":100000008425695,
+         "source":"New York Times",
+         "published_date":"2022-07-01",
+         "updated":"2022-07-01 17:43:36",
+         "section":"Technology",
+         "subsection":"",
+         "nytdsection":"technology",
+         "adx_keywords":"Computers and the Internet;Video Recordings, Downloads and Streaming;Computer and Video Games;Deaths (Obituaries);Technoblade;YouTube.com",
+         "column":null,
+         "byline":"By Amanda Holpuch",
+         "type":"Article",
+         "title":"Father of Technoblade, YouTube Minecraft Star, Says His Son Has Died",
+         "abstract":"He read his son’s final message on the YouTube channel where the 20-something had entertained more than 11 million subscribers with Minecraft gameplay and wry commentary. The title: “so long nerds.”",
+         "des_facet":[
+            "Computers and the Internet",
+            "Video Recordings, Downloads and Streaming",
+            "Computer and Video Games",
+            "Deaths (Obituaries)"
+         ],
+         "org_facet":[
+            "YouTube.com"
+         ],
+         "per_facet":[
+            "Technoblade"
+         ],
+         "geo_facet":[
+            
+         ],
+         "media":[
+            {
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Technoblade’s father read a message from his son in a video announcement of his death that has been viewed more than 25 million times.",
+               "copyright":"",
+               "approved_for_syndication":0,
+               "media-metadata":[
+                  {
+                     "url":"https://static01.nyt.com/images/2022/07/01/lens/01xp-technoblade-01/01xp-technoblade-01-thumbStandard.png",
+                     "format":"Standard Thumbnail",
+                     "height":75,
+                     "width":75
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2022/07/01/lens/01xp-technoblade-01/01xp-technoblade-01-mediumThreeByTwo210-v2.png",
+                     "format":"mediumThreeByTwo210",
+                     "height":140,
+                     "width":210
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2022/07/01/lens/01xp-technoblade-01/01xp-technoblade-01-mediumThreeByTwo440-v2.png",
+                     "format":"mediumThreeByTwo440",
+                     "height":293,
+                     "width":440
+                  }
+               ]
+            }
+         ],
+         "eta_id":0
+      },
+      {
+         "uri":"nyt://article/677476ae-5bbc-53d4-b6e0-b9436c127594",
+         "url":"https://www.nytimes.com/2022/07/01/crosswords/spelling-bee-forum.html",
+         "id":100000008415682,
+         "asset_id":100000008415682,
+         "source":"New York Times",
+         "published_date":"2022-07-01",
+         "updated":"2022-07-01 03:00:03",
+         "section":"Gameplay",
+         "subsection":"",
+         "nytdsection":"gameplay",
+         "adx_keywords":"",
+         "column":null,
+         "byline":"By Isaac Aronow and Doug Mennella",
+         "type":"Article",
+         "title":"Spelling Bee Forum",
+         "abstract":"Feeling stuck on today’s puzzle? We can help.",
+         "des_facet":[
+            
+         ],
+         "org_facet":[
+            
+         ],
+         "per_facet":[
+            
+         ],
+         "geo_facet":[
+            
+         ],
+         "media":[
+            {
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":"Courtesy of Eileen MacKinnon",
+               "approved_for_syndication":0,
+               "media-metadata":[
+                  {
+                     "url":"https://static01.nyt.com/images/2022/07/01/crosswords/01bee-forum-fri/01bee-forum-fri-thumbStandard.jpg",
+                     "format":"Standard Thumbnail",
+                     "height":75,
+                     "width":75
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2022/07/01/crosswords/01bee-forum-fri/01bee-forum-fri-mediumThreeByTwo210.jpg",
+                     "format":"mediumThreeByTwo210",
+                     "height":140,
+                     "width":210
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2022/07/01/crosswords/01bee-forum-fri/01bee-forum-fri-mediumThreeByTwo440.jpg",
+                     "format":"mediumThreeByTwo440",
+                     "height":293,
+                     "width":440
+                  }
+               ]
+            }
+         ],
+         "eta_id":0
+      },
+      {
+         "uri":"nyt://article/92c33e7f-2ed3-5a83-8538-607fecaa2022",
+         "url":"https://www.nytimes.com/2022/06/30/arts/television/seth-meyers-calls-out-fox-news-hosts-for-falling-speechless.html",
+         "id":100000008422245,
+         "asset_id":100000008422245,
+         "source":"New York Times",
+         "published_date":"2022-06-30",
+         "updated":"2022-06-30 16:24:03",
+         "section":"Arts",
+         "subsection":"Television",
+         "nytdsection":"arts",
+         "adx_keywords":"Television",
+         "column":null,
+         "byline":"By Trish Bendix",
+         "type":"Article",
+         "title":"Seth Meyers Calls Out Fox News Hosts for Falling Speechless",
+         "abstract":"Meyers said hosts couldn’t “settle on a coherent narrative the way they usually do,” as indicated by a long, awkward pause during a live broadcast about Cassidy Hutchinson’s testimony.",
+         "des_facet":[
+            "Television"
+         ],
+         "org_facet":[
+            
+         ],
+         "per_facet":[
+            
+         ],
+         "geo_facet":[
+            
+         ],
+         "media":[
+            {
+               "type":"image",
+               "subtype":"photo",
+               "caption":"“Oof. That’s like when you get in the car with your parents after they took you to a movie that had way more nudity than they were expecting,” Meyers said.",
+               "copyright":"NBC",
+               "approved_for_syndication":0,
+               "media-metadata":[
+                  {
+                     "url":"https://static01.nyt.com/images/2022/06/30/arts/30latenight/30latenight-thumbStandard.png",
+                     "format":"Standard Thumbnail",
+                     "height":75,
+                     "width":75
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2022/06/30/arts/30latenight/30latenight-mediumThreeByTwo210.png",
+                     "format":"mediumThreeByTwo210",
+                     "height":140,
+                     "width":210
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2022/06/30/arts/30latenight/30latenight-mediumThreeByTwo440.png",
+                     "format":"mediumThreeByTwo440",
+                     "height":293,
+                     "width":440
+                  }
+               ]
+            }
+         ],
+         "eta_id":0
+      },
+      {
+         "uri":"nyt://article/70129f1e-e311-514d-b5e8-fcdb0d3d3e8d",
+         "url":"https://www.nytimes.com/2022/06/30/us/trump-jan-6-lawyers-witness-pressure.html",
+         "id":100000008423346,
+         "asset_id":100000008423346,
+         "source":"New York Times",
+         "published_date":"2022-06-30",
+         "updated":"2022-07-01 09:50:46",
+         "section":"U.S.",
+         "subsection":"",
+         "nytdsection":"u.s.",
+         "adx_keywords":"Witnesses;Legal Profession;Storming of the US Capitol (Jan, 2021);United States Politics and Government;Political Action Committees;Ethics and Official Misconduct;Conflicts of Interest;Hutchinson, Cassidy;Trump, Donald J;House Select Committee to Investigate the January 6th Attack",
+         "column":null,
+         "byline":"By Luke Broadwater, Maggie Haberman, Annie Karni and Alan Feuer",
+         "type":"Article",
+         "title":"Trump Group Pays for Jan. 6 Lawyers, Raising Concerns of Witness Pressure",
+         "abstract":"The former president’s political organization and allies have paid for or promised to cover legal fees for witnesses, as the House inquiry suggests he is trying to influence testimony.",
+         "des_facet":[
+            "Witnesses",
+            "Legal Profession",
+            "Storming of the US Capitol (Jan, 2021)",
+            "United States Politics and Government",
+            "Political Action Committees",
+            "Ethics and Official Misconduct",
+            "Conflicts of Interest"
+         ],
+         "org_facet":[
+            "House Select Committee to Investigate the January 6th Attack"
+         ],
+         "per_facet":[
+            "Hutchinson, Cassidy",
+            "Trump, Donald J"
+         ],
+         "geo_facet":[
+            
+         ],
+         "media":[
+            {
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Jody Hunt, left, was hired by Cassidy Hutchinson after she fired a lawyer recommended to her by two of former President Donald J. Trump’s former aides.",
+               "copyright":"Doug Mills/The New York Times",
+               "approved_for_syndication":1,
+               "media-metadata":[
+                  {
+                     "url":"https://static01.nyt.com/images/2022/06/30/us/politics/30dc-pressure/30dc-pressure-thumbStandard.jpg",
+                     "format":"Standard Thumbnail",
+                     "height":75,
+                     "width":75
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2022/06/30/us/politics/30dc-pressure/merlin_209376735_5f2a3a71-641e-4e4b-b432-1a742a286ef7-mediumThreeByTwo210.jpg",
+                     "format":"mediumThreeByTwo210",
+                     "height":140,
+                     "width":210
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2022/06/30/us/politics/30dc-pressure/merlin_209376735_5f2a3a71-641e-4e4b-b432-1a742a286ef7-mediumThreeByTwo440.jpg",
+                     "format":"mediumThreeByTwo440",
+                     "height":293,
+                     "width":440
+                  }
+               ]
+            }
+         ],
+         "eta_id":0
+      },
+      {
+         "uri":"nyt://article/df88d274-1a35-5b1a-a83c-245dd1a32348",
+         "url":"https://www.nytimes.com/2022/07/01/us/politics/texas-abortion-roe-wade.html",
+         "id":100000008419286,
+         "asset_id":100000008419286,
+         "source":"New York Times",
+         "published_date":"2022-07-01",
+         "updated":"2022-07-01 23:07:23",
+         "section":"U.S.",
+         "subsection":"Politics",
+         "nytdsection":"u.s.",
+         "adx_keywords":"Abortion;Roe v Wade (Supreme Court Decision);Pregnancy and Childbirth;Supreme Court (US)",
+         "column":null,
+         "byline":"By Elizabeth Williamson and Erin Schaff",
+         "type":"Article",
+         "title":"Who Will Help Care for Texas’ Post-Roe Babies?",
+         "abstract":"Even some anti-abortion adherents say Texas is failing families left impoverished by its war against abortion.",
+         "des_facet":[
+            "Abortion",
+            "Roe v Wade (Supreme Court Decision)",
+            "Pregnancy and Childbirth"
+         ],
+         "org_facet":[
+            "Supreme Court (US)"
+         ],
+         "per_facet":[
+            
+         ],
+         "geo_facet":[
+            
+         ],
+         "media":[
+            {
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":"Erin Schaff/The New York Times",
+               "approved_for_syndication":1,
+               "media-metadata":[
+                  {
+                     "url":"https://static01.nyt.com/images/2022/07/01/us/politics/01dc-abortion-promo/01dc-abortion-promo-thumbStandard.jpg",
+                     "format":"Standard Thumbnail",
+                     "height":75,
+                     "width":75
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2022/07/01/us/politics/01dc-abortion-promo/merlin_209331273_f601ad65-6eab-4448-9d0f-dc9fdbb1e7f7-mediumThreeByTwo210.jpg",
+                     "format":"mediumThreeByTwo210",
+                     "height":140,
+                     "width":210
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2022/07/01/us/politics/01dc-abortion-promo/merlin_209331273_f601ad65-6eab-4448-9d0f-dc9fdbb1e7f7-mediumThreeByTwo440.jpg",
+                     "format":"mediumThreeByTwo440",
+                     "height":293,
+                     "width":440
+                  }
+               ]
+            }
+         ],
+         "eta_id":0
+      },
+      {
+         "uri":"nyt://article/1e03da6c-4985-51a9-bd9f-bfebaf790db7",
+         "url":"https://www.nytimes.com/2022/06/30/science/shipwreck-ancient-roman-hercules.html",
+         "id":100000008418077,
+         "asset_id":100000008418077,
+         "source":"New York Times",
+         "published_date":"2022-06-30",
+         "updated":"2022-06-30 21:43:56",
+         "section":"Science",
+         "subsection":"",
+         "nytdsection":"science",
+         "adx_keywords":"Research;Greek Civilization;Shipwrecks (Historic);Diving and Divers;Archaeology and Anthropology;Roman Civilization;Art;Myths and Mythical Creatures;National Archaeological Museum (Athens);Hublot SA;Antikythera (Greece);Athens (Greece);Greece;Aegean Sea",
+         "column":null,
+         "byline":"By April Rubin",
+         "type":"Article",
+         "title":"An Excavation in the Sea Depths Recovers Hercules From the Afterlife",
+         "abstract":"An ancient shipwreck off the coast of Greece is yielding secrets as an archaeological exploration project dives deeper. The effort relies on technological innovation.",
+         "des_facet":[
+            "Research",
+            "Greek Civilization",
+            "Shipwrecks (Historic)",
+            "Diving and Divers",
+            "Archaeology and Anthropology",
+            "Roman Civilization",
+            "Art",
+            "Myths and Mythical Creatures"
+         ],
+         "org_facet":[
+            "National Archaeological Museum (Athens)",
+            "Hublot SA"
+         ],
+         "per_facet":[
+            
+         ],
+         "geo_facet":[
+            "Antikythera (Greece)",
+            "Athens (Greece)",
+            "Greece",
+            "Aegean Sea"
+         ],
+         "media":[
+            {
+               "type":"image",
+               "subtype":"photo",
+               "caption":"The recent exploration of a shipwreck off the coast of Greece led to the discovery of a marble head that researchers believe belonged to a Hercules statue from ancient Rome.",
+               "copyright":"Swiss School of Archaeology in Greece/Hellenic Ministry of Culture and Sports",
+               "approved_for_syndication":1,
+               "media-metadata":[
+                  {
+                     "url":"https://static01.nyt.com/images/2022/06/27/us/27xp-hercules-head/27xp-hercules-head-thumbStandard.jpg",
+                     "format":"Standard Thumbnail",
+                     "height":75,
+                     "width":75
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2022/06/27/us/27xp-hercules-head/27xp-hercules-head-mediumThreeByTwo210.jpg",
+                     "format":"mediumThreeByTwo210",
+                     "height":140,
+                     "width":210
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2022/06/27/us/27xp-hercules-head/27xp-hercules-head-mediumThreeByTwo440.jpg",
+                     "format":"mediumThreeByTwo440",
+                     "height":293,
+                     "width":440
+                  }
+               ]
+            }
+         ],
+         "eta_id":0
+      },
+      {
+         "uri":"nyt://article/f1f611bf-97b7-5b2f-bb58-1a074890d0bd",
+         "url":"https://www.nytimes.com/2022/07/01/travel/summer-travel-flight-delays-cancellations.html",
+         "id":100000008418978,
+         "asset_id":100000008418978,
+         "source":"New York Times",
+         "published_date":"2022-07-01",
+         "updated":"2022-07-01 22:33:17",
+         "section":"Travel",
+         "subsection":"",
+         "nytdsection":"travel",
+         "adx_keywords":"Delays (Transportation);Airlines and Airplanes;Airports;Coronavirus (2019-nCoV);Independence Day (US) (July 4);Travel and Vacations;Air Traffic Control;Summer (Season);United States",
+         "column":null,
+         "byline":"By Heather Murphy",
+         "type":"Article",
+         "title":"Understanding the Summer Air Travel Mess",
+         "abstract":"Going into the Fourth of July weekend, with nearly 13 million people expected to fly on U.S. carriers, we look at the numbers behind the delays and cancellations and see what lessons can be learned.",
+         "des_facet":[
+            "Delays (Transportation)",
+            "Airlines and Airplanes",
+            "Airports",
+            "Coronavirus (2019-nCoV)",
+            "Independence Day (US) (July 4)",
+            "Travel and Vacations",
+            "Air Traffic Control",
+            "Summer (Season)"
+         ],
+         "org_facet":[
+            
+         ],
+         "per_facet":[
+            
+         ],
+         "geo_facet":[
+            "United States"
+         ],
+         "media":[
+            {
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Many airline passengers, like those waiting to go through security at John F. Kennedy International Airport recently, are experiencing long lines this summer, as the number of passengers has increased and the system struggles to accommodate them.",
+               "copyright":"Julia Nikhinson/Associated Press",
+               "approved_for_syndication":1,
+               "media-metadata":[
+                  {
+                     "url":"https://static01.nyt.com/images/2022/06/30/travel/unreliable-airlines-new-york/unreliable-airlines-new-york-thumbStandard.jpg",
+                     "format":"Standard Thumbnail",
+                     "height":75,
+                     "width":75
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2022/06/30/travel/unreliable-airlines-new-york/unreliable-airlines-new-york-mediumThreeByTwo210-v2.jpg",
+                     "format":"mediumThreeByTwo210",
+                     "height":140,
+                     "width":210
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2022/06/30/travel/unreliable-airlines-new-york/unreliable-airlines-new-york-mediumThreeByTwo440-v2.jpg",
+                     "format":"mediumThreeByTwo440",
+                     "height":293,
+                     "width":440
+                  }
+               ]
+            }
+         ],
+         "eta_id":0
+      },
+      {
+         "uri":"nyt://article/35380f9f-78f3-5052-ae39-898708bb9198",
+         "url":"https://www.nytimes.com/2022/07/01/us/politics/trump-republicans-campaign-2024.html",
+         "id":100000008426068,
+         "asset_id":100000008426068,
+         "source":"New York Times",
+         "published_date":"2022-07-01",
+         "updated":"2022-07-01 23:13:46",
+         "section":"U.S.",
+         "subsection":"Politics",
+         "nytdsection":"u.s.",
+         "adx_keywords":"Presidential Election of 2024;Midterm Elections (2022);Trump, Donald J;Republican Party;House Select Committee to Investigate the January 6th Attack",
+         "column":null,
+         "byline":"By Michael C. Bender, Reid J. Epstein and Maggie Haberman",
+         "type":"Article",
+         "title":"Trump Eyes Early 2024 Announcement as Jan. 6 Scrutiny Intensifies",
+         "abstract":"Donald Trump has accelerated his campaign planning, hoping a White House bid will blunt a series of damaging revelations. Some Republicans are worried.",
+         "des_facet":[
+            "Presidential Election of 2024",
+            "Midterm Elections (2022)"
+         ],
+         "org_facet":[
+            "Republican Party",
+            "House Select Committee to Investigate the January 6th Attack"
+         ],
+         "per_facet":[
+            "Trump, Donald J"
+         ],
+         "geo_facet":[
+            
+         ],
+         "media":[
+            {
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Former President Donald J. Trump at a rally in Mendon, Ill., last week.",
+               "copyright":"Rachel Mummey for The New York Times",
+               "approved_for_syndication":1,
+               "media-metadata":[
+                  {
+                     "url":"https://static01.nyt.com/images/2022/07/01/multimedia/00pol-trump-2024-mendon02/00pol-trump-2024-mendon02-thumbStandard.jpg",
+                     "format":"Standard Thumbnail",
+                     "height":75,
+                     "width":75
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2022/07/01/multimedia/00pol-trump-2024-mendon02/00pol-trump-2024-mendon02-mediumThreeByTwo210-v5.jpg",
+                     "format":"mediumThreeByTwo210",
+                     "height":140,
+                     "width":210
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2022/07/01/multimedia/00pol-trump-2024-mendon02/00pol-trump-2024-mendon02-mediumThreeByTwo440-v5.jpg",
+                     "format":"mediumThreeByTwo440",
+                     "height":293,
+                     "width":440
+                  }
+               ]
+            }
+         ],
+         "eta_id":0
+      },
+      {
+         "uri":"nyt://article/cbbd1925-bb40-58df-8bf9-2da660d964aa",
+         "url":"https://www.nytimes.com/2022/06/30/us/columbia-us-news-rankings.html",
+         "id":100000008425329,
+         "asset_id":100000008425329,
+         "source":"New York Times",
+         "published_date":"2022-06-30",
+         "updated":"2022-06-30 22:57:47",
+         "section":"U.S.",
+         "subsection":"",
+         "nytdsection":"u.s.",
+         "adx_keywords":"Colleges and Universities;Falsification of Data;Thaddeus, Michael (Mathematician);Columbia University;US News \u0026 World Report",
+         "column":null,
+         "byline":"By Anemona Hartocollis",
+         "type":"Article",
+         "title":"Columbia Won’t Participate in the Next U.S. News Rankings",
+         "abstract":"The university, which had climbed to No. 2 in the influential rankings, said it needed more time to address questions about its data, which were raised by a Columbia math professor.",
+         "des_facet":[
+            "Colleges and Universities",
+            "Falsification of Data"
+         ],
+         "org_facet":[
+            "Columbia University",
+            "US News \u0026 World Report"
+         ],
+         "per_facet":[
+            "Thaddeus, Michael (Mathematician)"
+         ],
+         "geo_facet":[
+            
+         ],
+         "media":[
+            {
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Michael Thaddeus, a mathematics professor at Columbia University, wrote a 21-page critique of the school’s data on his website. ",
+               "copyright":"David Payr for The New York Times",
+               "approved_for_syndication":1,
+               "media-metadata":[
+                  {
+                     "url":"https://static01.nyt.com/images/2022/06/30/us/30columbia-rankings-1/30columbia-rankings-1-thumbStandard.jpg",
+                     "format":"Standard Thumbnail",
+                     "height":75,
+                     "width":75
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2022/06/30/us/30columbia-rankings-1/30columbia-rankings-1-mediumThreeByTwo210.jpg",
+                     "format":"mediumThreeByTwo210",
+                     "height":140,
+                     "width":210
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2022/06/30/us/30columbia-rankings-1/30columbia-rankings-1-mediumThreeByTwo440.jpg",
+                     "format":"mediumThreeByTwo440",
+                     "height":293,
+                     "width":440
+                  }
+               ]
+            }
+         ],
+         "eta_id":0
+      },
+      {
+         "uri":"nyt://article/35c3ec17-e94c-5c82-9e9b-0829adcba794",
+         "url":"https://www.nytimes.com/2022/06/30/technology/period-tracker-privacy-abortion.html",
+         "id":100000008418130,
+         "asset_id":100000008418130,
+         "source":"New York Times",
+         "published_date":"2022-06-30",
+         "updated":"2022-07-01 11:38:06",
+         "section":"Technology",
+         "subsection":"",
+         "nytdsection":"technology",
+         "adx_keywords":"Menstruation;Abortion;Data-Mining and Database Marketing;Mobile Applications;Privacy;Dobbs v Jackson Women's Health Organization (Supreme Court Decision);Roe v Wade (Supreme Court Decision);United States",
+         "column":null,
+         "byline":"By Kashmir Hill",
+         "type":"Article",
+         "title":"Deleting Your Period Tracker Won’t Protect You",
+         "abstract":"Tweets telling women to do that went viral after Roe v. Wade was overturned, but experts say other digital data are more likely to reveal an illegal abortion.",
+         "des_facet":[
+            "Menstruation",
+            "Abortion",
+            "Data-Mining and Database Marketing",
+            "Mobile Applications",
+            "Privacy",
+            "Dobbs v Jackson Women's Health Organization (Supreme Court Decision)",
+            "Roe v Wade (Supreme Court Decision)"
+         ],
+         "org_facet":[
+            
+         ],
+         "per_facet":[
+            
+         ],
+         "geo_facet":[
+            "United States"
+         ],
+         "media":[
+            {
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Downloads of apps that track menstrual cycles, like Flo’s, have risen rapidly since the Supreme Court overturned Roe v. Wade.",
+               "copyright":"Cayce Clifford for The New York Times",
+               "approved_for_syndication":1,
+               "media-metadata":[
+                  {
+                     "url":"https://static01.nyt.com/images/2022/07/01/business/01abortion-privacy-print/29abortion_privacy-thumbStandard.jpg",
+                     "format":"Standard Thumbnail",
+                     "height":75,
+                     "width":75
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2022/07/01/business/01abortion-privacy-print/29abortion_privacy-mediumThreeByTwo210.jpg",
+                     "format":"mediumThreeByTwo210",
+                     "height":140,
+                     "width":210
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2022/07/01/business/01abortion-privacy-print/29abortion_privacy-mediumThreeByTwo440.jpg",
+                     "format":"mediumThreeByTwo440",
+                     "height":293,
+                     "width":440
+                  }
+               ]
+            }
+         ],
+         "eta_id":0
+      },
+      {
+         "uri":"nyt://article/e4bf163a-2efb-5c2a-a9e5-7ab89761d1fe",
+         "url":"https://www.nytimes.com/2022/07/01/us/politics/himars-weapons-ukraine.html",
+         "id":100000008425222,
+         "asset_id":100000008425222,
+         "source":"New York Times",
+         "published_date":"2022-07-01",
+         "updated":"2022-07-01 23:17:03",
+         "section":"U.S.",
+         "subsection":"Politics",
+         "nytdsection":"u.s.",
+         "adx_keywords":"Russian Invasion of Ukraine (2022);United States International Relations;Defense and Military Forces;Arms Trade;Austin, Lloyd J III;Milley, Mark A;Defense Department;North Atlantic Treaty Organization;Ukraine;Russia",
+         "column":null,
+         "byline":"By Eric Schmitt and John Ismay",
+         "type":"Article",
+         "title":"Advanced U.S. Arms Make a Mark in Ukraine War, Officials Say",
+         "abstract":"The powerful and highly mobile weapons systems, which can fire guided rockets with a range of 40 miles, are desperately needed in the battle for eastern Ukraine.",
+         "des_facet":[
+            "Russian Invasion of Ukraine (2022)",
+            "United States International Relations",
+            "Defense and Military Forces",
+            "Arms Trade"
+         ],
+         "org_facet":[
+            "Defense Department",
+            "North Atlantic Treaty Organization"
+         ],
+         "per_facet":[
+            "Austin, Lloyd J III",
+            "Milley, Mark A"
+         ],
+         "geo_facet":[
+            "Ukraine",
+            "Russia"
+         ],
+         "media":[
+            {
+               "type":"image",
+               "subtype":"photo",
+               "caption":"A salvo from a High Mobility Artillery Rocket System, or HIMARS, can rival the devastating effect of an airstrike from a jet loaded with precision-guided bombs.",
+               "copyright":"Tony Overman/The Olympian, via Associated Press",
+               "approved_for_syndication":1,
+               "media-metadata":[
+                  {
+                     "url":"https://static01.nyt.com/images/2022/07/01/us/politics/01dc-himars/merlin_209002413_6bbc44fe-0c91-4d81-8771-5701a4ed752f-thumbStandard.jpg",
+                     "format":"Standard Thumbnail",
+                     "height":75,
+                     "width":75
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2022/07/01/us/politics/01dc-himars/merlin_209002413_6bbc44fe-0c91-4d81-8771-5701a4ed752f-mediumThreeByTwo210.jpg",
+                     "format":"mediumThreeByTwo210",
+                     "height":140,
+                     "width":210
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2022/07/01/us/politics/01dc-himars/merlin_209002413_6bbc44fe-0c91-4d81-8771-5701a4ed752f-mediumThreeByTwo440.jpg",
+                     "format":"mediumThreeByTwo440",
+                     "height":293,
+                     "width":440
+                  }
+               ]
+            }
+         ],
+         "eta_id":0
+      },
+      {
+         "uri":"nyt://article/c4f7330b-3a11-5526-9b49-420fecca6b6d",
+         "url":"https://www.nytimes.com/2022/06/30/sports/basketball/brittney-griner-trial-russia.html",
+         "id":100000008421272,
+         "asset_id":100000008421272,
+         "source":"New York Times",
+         "published_date":"2022-06-30",
+         "updated":"2022-06-30 12:38:13",
+         "section":"Sports",
+         "subsection":"N.B.A.",
+         "nytdsection":"sports",
+         "adx_keywords":"Political Prisoners;United States International Relations;United States Politics and Government;Basketball;Russian Invasion of Ukraine (2022);Griner, Brittney;Biden, Joseph R Jr;Women's National Basketball Assn;Russia",
+         "column":null,
+         "byline":"By Jonathan Abrams and Tania Ganguli",
+         "type":"Article",
+         "title":"Brittney Griner’s Trial in Russia Is Starting, and Likely to End in a Conviction",
+         "abstract":"Courts in Russia heavily favor the prosecution, experts said, pointing to a prisoner swap as perhaps the W.N.B.A. star’s best chance to come home.",
+         "des_facet":[
+            "Political Prisoners",
+            "United States International Relations",
+            "United States Politics and Government",
+            "Basketball",
+            "Russian Invasion of Ukraine (2022)"
+         ],
+         "org_facet":[
+            "Women's National Basketball Assn"
+         ],
+         "per_facet":[
+            "Griner, Brittney",
+            "Biden, Joseph R Jr"
+         ],
+         "geo_facet":[
+            "Russia"
+         ],
+         "media":[
+            {
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Brittney Griner appeared in court on Monday as her trial date was set. She has been detained in Russia for more than four months.",
+               "copyright":"Alexander Zemlianichenko/Associated Press",
+               "approved_for_syndication":1,
+               "media-metadata":[
+                  {
+                     "url":"https://static01.nyt.com/images/2022/06/30/sports/30wnba-griner-trial1/30wnba-griner-trial1-thumbStandard.jpg",
+                     "format":"Standard Thumbnail",
+                     "height":75,
+                     "width":75
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2022/06/30/sports/30wnba-griner-trial1/30wnba-griner-trial1-mediumThreeByTwo210.jpg",
+                     "format":"mediumThreeByTwo210",
+                     "height":140,
+                     "width":210
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2022/06/30/sports/30wnba-griner-trial1/30wnba-griner-trial1-mediumThreeByTwo440.jpg",
+                     "format":"mediumThreeByTwo440",
+                     "height":293,
+                     "width":440
+                  }
+               ]
+            }
+         ],
+         "eta_id":0
+      },
+      {
+         "uri":"nyt://article/52a95e34-630d-549c-bdb4-fbf9c3906076",
+         "url":"https://www.nytimes.com/2022/07/01/well/family/relationship-questions.html",
+         "id":100000008363279,
+         "asset_id":100000008363279,
+         "source":"New York Times",
+         "published_date":"2022-07-01",
+         "updated":"2022-07-01 12:51:13",
+         "section":"Well",
+         "subsection":"Family",
+         "nytdsection":"well",
+         "adx_keywords":"Dating and Relationships;Marriages;Therapy and Rehabilitation;Sex;Content Type: Service;Psychology and Psychologists",
+         "column":null,
+         "byline":"By Catherine Pearson",
+         "type":"Article",
+         "title":"Are We Still Monogamous? And 6 Other Questions to Ask Your Partner.",
+         "abstract":"After two years of tumult, these essential conversations can help couples talk about what’s working, what’s not and where the relationship is headed.",
+         "des_facet":[
+            "Dating and Relationships",
+            "Marriages",
+            "Therapy and Rehabilitation",
+            "Sex",
+            "Content Type: Service",
+            "Psychology and Psychologists"
+         ],
+         "org_facet":[
+            
+         ],
+         "per_facet":[
+            
+         ],
+         "geo_facet":[
+            
+         ],
+         "media":[
+            {
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":"Clifford Prince King for The New York Times",
+               "approved_for_syndication":1,
+               "media-metadata":[
+                  {
+                     "url":"https://static01.nyt.com/images/2022/06/30/well/1WELL-QUESTIONS-FOR-COUPLES2/1WELL-QUESTIONS-FOR-COUPLES2-thumbStandard.jpg",
+                     "format":"Standard Thumbnail",
+                     "height":75,
+                     "width":75
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2022/06/30/well/1WELL-QUESTIONS-FOR-COUPLES2/1WELL-QUESTIONS-FOR-COUPLES2-mediumThreeByTwo210.jpg",
+                     "format":"mediumThreeByTwo210",
+                     "height":140,
+                     "width":210
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2022/06/30/well/1WELL-QUESTIONS-FOR-COUPLES2/1WELL-QUESTIONS-FOR-COUPLES2-mediumThreeByTwo440.jpg",
+                     "format":"mediumThreeByTwo440",
+                     "height":293,
+                     "width":440
+                  }
+               ]
+            }
+         ],
+         "eta_id":0
+      },
+      {
+         "uri":"nyt://article/22032ca6-c005-5318-b4c8-3f6487d0f66f",
+         "url":"https://www.nytimes.com/2022/07/01/style/solveig-gold-joshua-katz-princeton-professor.html",
+         "id":100000008422615,
+         "asset_id":100000008422615,
+         "source":"New York Times",
+         "published_date":"2022-07-01",
+         "updated":"2022-07-01 21:43:09",
+         "section":"Style",
+         "subsection":"",
+         "nytdsection":"style",
+         "adx_keywords":"Content Type: Personal Profile;Conservatism (US Politics);Gold, Solveig;Katz, Joshua T (1969- );Princeton University",
+         "column":null,
+         "byline":"By Anemona Hartocollis",
+         "type":"Article",
+         "title":"Solveig Gold Is Proud to Be the Wife of a ‘Canceled’ Princeton Professor",
+         "abstract":"But she also wants to be known as more. At dinner with the aspiring public intellectual and her “cabal.”",
+         "des_facet":[
+            "Content Type: Personal Profile",
+            "Conservatism (US Politics)"
+         ],
+         "org_facet":[
+            "Princeton University"
+         ],
+         "per_facet":[
+            "Gold, Solveig",
+            "Katz, Joshua T (1969- )"
+         ],
+         "geo_facet":[
+            
+         ],
+         "media":[
+            {
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Solveig Gold at her home in Princeton, N.J.",
+               "copyright":"Bryan Anselm for The New York Times",
+               "approved_for_syndication":1,
+               "media-metadata":[
+                  {
+                     "url":"https://static01.nyt.com/images/2022/07/03/fashion/30gold1/30gold1-thumbStandard.jpg",
+                     "format":"Standard Thumbnail",
+                     "height":75,
+                     "width":75
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2022/07/03/fashion/30gold1/30gold1-mediumThreeByTwo210-v2.jpg",
+                     "format":"mediumThreeByTwo210",
+                     "height":140,
+                     "width":210
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2022/07/03/fashion/30gold1/30gold1-mediumThreeByTwo440-v2.jpg",
+                     "format":"mediumThreeByTwo440",
+                     "height":293,
+                     "width":440
+                  }
+               ]
+            }
+         ],
+         "eta_id":0
+      },
+      {
+         "uri":"nyt://article/03128451-8ccd-56a0-86fe-d00385068dde",
+         "url":"https://www.nytimes.com/2022/06/30/nyregion/rudy-giuliani.html",
+         "id":100000008421933,
+         "asset_id":100000008421933,
+         "source":"New York Times",
+         "published_date":"2022-06-30",
+         "updated":"2022-07-01 10:55:53",
+         "section":"New York",
+         "subsection":"",
+         "nytdsection":"new york",
+         "adx_keywords":"Content Type: Personal Profile;Assaults;Giuliani, Rudolph W;New York City;Staten Island (NYC)",
+         "column":null,
+         "byline":"By Ginia Bellafante",
+         "type":"Article",
+         "title":"Can It Get Any Worse for Rudy Giuliani?",
+         "abstract":"The former mayor’s response to a hostile encounter with a grocery worker on Staten Island has left even his defenders baffled.",
+         "des_facet":[
+            "Content Type: Personal Profile",
+            "Assaults"
+         ],
+         "org_facet":[
+            
+         ],
+         "per_facet":[
+            "Giuliani, Rudolph W"
+         ],
+         "geo_facet":[
+            "New York City",
+            "Staten Island (NYC)"
+         ],
+         "media":[
+            {
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Rudolph W. Giuliani at a June press conference with his son Andrew.",
+               "copyright":"Justin Lane/EPA, via Shutterstock",
+               "approved_for_syndication":1,
+               "media-metadata":[
+                  {
+                     "url":"https://static01.nyt.com/images/2022/07/03/nyregion/03Big/03Big-thumbStandard.jpg",
+                     "format":"Standard Thumbnail",
+                     "height":75,
+                     "width":75
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2022/07/03/nyregion/03Big/03Big-mediumThreeByTwo210.jpg",
+                     "format":"mediumThreeByTwo210",
+                     "height":140,
+                     "width":210
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2022/07/03/nyregion/03Big/03Big-mediumThreeByTwo440.jpg",
+                     "format":"mediumThreeByTwo440",
+                     "height":293,
+                     "width":440
+                  }
+               ]
+            }
+         ],
+         "eta_id":0
+      },
+      {
+         "uri":"nyt://article/fc61583d-28b5-5144-ab90-e310a6953ec2",
+         "url":"https://www.nytimes.com/2022/07/01/us/politics/20-somethings-washington.html",
+         "id":100000008422982,
+         "asset_id":100000008422982,
+         "source":"New York Times",
+         "published_date":"2022-07-01",
+         "updated":"2022-07-01 23:17:56",
+         "section":"U.S.",
+         "subsection":"Politics",
+         "nytdsection":"u.s.",
+         "adx_keywords":"United States Politics and Government;Storming of the US Capitol (Jan, 2021);Presidents and Presidency (US);Youth;Hutchinson, Cassidy;House Select Committee to Investigate the January 6th Attack",
+         "column":null,
+         "byline":"By Annie Karni",
+         "type":"Article",
+         "title":"The 20-Somethings Who Help the 70-Somethings Run Washington",
+         "abstract":"The story of Cassidy Hutchinson, who became the first Trump White House aide to testify publicly in the Jan. 6 inquiry, showed the outsize influence of young aides in the nation’s capital.",
+         "des_facet":[
+            "United States Politics and Government",
+            "Storming of the US Capitol (Jan, 2021)",
+            "Presidents and Presidency (US)",
+            "Youth"
+         ],
+         "org_facet":[
+            "House Select Committee to Investigate the January 6th Attack"
+         ],
+         "per_facet":[
+            "Hutchinson, Cassidy"
+         ],
+         "geo_facet":[
+            
+         ],
+         "media":[
+            {
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Cassidy Hutchinson, now 26, was at the center of the political action as an aide in the Trump White House. “You can get a better job as a 24-year-old in Washington in government than you can in a big company,” said Steve Elmendorf, a lobbyist who was once a congressional aide.",
+               "copyright":"Doug Mills/The New York Times",
+               "approved_for_syndication":1,
+               "media-metadata":[
+                  {
+                     "url":"https://static01.nyt.com/images/2022/07/01/us/politics/01dc-Memo-1/merlin_209280966_95289625-5954-4f86-ac98-a5ad3aa64de9-thumbStandard.jpg",
+                     "format":"Standard Thumbnail",
+                     "height":75,
+                     "width":75
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2022/07/01/us/politics/01dc-Memo-1/01dc-Memo-1-mediumThreeByTwo210-v2.jpg",
+                     "format":"mediumThreeByTwo210",
+                     "height":140,
+                     "width":210
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2022/07/01/us/politics/01dc-Memo-1/01dc-Memo-1-mediumThreeByTwo440-v2.jpg",
+                     "format":"mediumThreeByTwo440",
+                     "height":293,
+                     "width":440
+                  }
+               ]
+            }
+         ],
+         "eta_id":0
+      },
+      {
+         "uri":"nyt://article/d9084640-e615-5ddc-8313-3db3edd026b6",
+         "url":"https://www.nytimes.com/2022/07/01/nyregion/ny-guns-abortion-supreme-court.html",
+         "id":100000008425962,
+         "asset_id":100000008425962,
+         "source":"New York Times",
+         "published_date":"2022-07-01",
+         "updated":"2022-07-01 23:14:29",
+         "section":"New York",
+         "subsection":"",
+         "nytdsection":"new york",
+         "adx_keywords":"Gun Control;Law and Legislation;Politics and Government;State Legislatures;Firearms;Elections, Governors;Abortion;Constitutions;Hochul, Kathleen C;Zeldin, Lee M;Sepulveda, Luis R;Democratic Party;Republican Party;New York State;Albany (Calif);Times Square and 42nd Street (Manhattan, NY)",
+         "column":null,
+         "byline":"By Jonah E. Bromwich and Nicholas Fandos",
+         "type":"Article",
+         "title":"New York Fights Back on Guns and Abortion After Supreme Court Rulings",
+         "abstract":"Lawmakers passed measures that would prohibit concealed weapons in many public places, as well as an amendment that would initiate the process of enshrining the right to abortion in the state constitution.",
+         "des_facet":[
+            "Gun Control",
+            "Law and Legislation",
+            "Politics and Government",
+            "State Legislatures",
+            "Firearms",
+            "Elections, Governors",
+            "Abortion",
+            "Constitutions"
+         ],
+         "org_facet":[
+            "Democratic Party",
+            "Republican Party"
+         ],
+         "per_facet":[
+            "Hochul, Kathleen C",
+            "Zeldin, Lee M",
+            "Sepulveda, Luis R"
+         ],
+         "geo_facet":[
+            "New York State",
+            "Albany (Calif)",
+            "Times Square and 42nd Street (Manhattan, NY)"
+         ],
+         "media":[
+            {
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Gov. Kathy Hochul at a special session of the New York State Legislature, which moved to enact measures responding to the Supreme Court’s rulings on guns and abortion.",
+               "copyright":"Cindy Schultz for The New York Times",
+               "approved_for_syndication":1,
+               "media-metadata":[
+                  {
+                     "url":"https://static01.nyt.com/images/2022/07/01/nyregion/01ny-specialsession-new-hochul/01ny-specialsession-new-hochul-thumbStandard.jpg",
+                     "format":"Standard Thumbnail",
+                     "height":75,
+                     "width":75
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2022/07/01/nyregion/01ny-specialsession-new-hochul/01ny-specialsession-new-hochul-mediumThreeByTwo210-v2.jpg",
+                     "format":"mediumThreeByTwo210",
+                     "height":140,
+                     "width":210
+                  },
+                  {
+                     "url":"https://static01.nyt.com/images/2022/07/01/nyregion/01ny-specialsession-new-hochul/01ny-specialsession-new-hochul-mediumThreeByTwo440-v2.jpg",
+                     "format":"mediumThreeByTwo440",
+                     "height":293,
+                     "width":440
+                  }
+               ]
+            }
+         ],
+         "eta_id":0
+      }
+   ]
+}
